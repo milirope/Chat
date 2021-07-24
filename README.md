@@ -11,4 +11,4 @@ Podemos modificar una planta colocando el id de la misma y de igual manera podem
 Tambien podemos ver todas las plantas del invernadero dandole click al boton de presentar.
 
 En el chat que vamos a observar podemos enviar mensajes al otro usuario sobre el invernadero y podemos limpiar la pantalla del mismo chat. 
-Encima del chat podemos observar a quien le estamos enviando este mensaje. 
+Encima del chat podemos observar a quien le estamos enviando este mensaje, y tambien si colocamos la palabra "plant" vamos a poder observar las plantas que tenemos en nuestro invernadero.
