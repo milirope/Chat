@@ -48,6 +48,7 @@ De esta forma nos conectamos a la base de datos
 ![photo_2021-07-23_23-01-48](https://user-images.githubusercontent.com/64318749/126855721-003f2c3b-fddf-4293-acc5-2740e7f8f502.jpg)
 
 
+Al darle a Run nos aparecera primero una ventana donde debemos colocar los nombres de los dos usuarios que se encontraran para identificarlos ene el Chat.
 
 Para agregar una planta debemos colocar el id de esta planta ( su numero para identificarla ), el nombre de esta, la division o grupo en donde esta pertenece ya sea : Briofita, Pteridofita, Angiosperma o Gimnosperma. Tambien hay que colocar el color de la planta, el filo de esta planta de los cuales hay mas de 20. Posteriormente la clasificacion de esta segun su duracion, donde podemos encontrar:  Anuales, Bianuales y Perennes, y por ultimo hay que seleccionar el tipo de planta.
 
