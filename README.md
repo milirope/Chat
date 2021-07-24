@@ -7,6 +7,8 @@ Lo primero que debemos hacer es crear una base de datos con la tabla que utiliza
 Las tablas que use para este proyecto fueron:
 
 CREATE TABLE plant1( id INTEGER PRIMARY KEY, name TEXT NOT NULL, division TEXT NOT NULL, color TEXT NOT NULL, phylum TEXT NOT NULL, duration TEXT NOT NULL, type TEXT NOT NULL);
+
+
 CREATE TABLE plant2( id INTEGER PRIMARY KEY, name TEXT NOT NULL, division TEXT NOT NULL, color TEXT NOT NULL, phylum TEXT NOT NULL, duration TEXT NOT NULL, type TEXT NOT NULL);
 
 
